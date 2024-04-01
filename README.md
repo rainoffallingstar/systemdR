@@ -8,7 +8,7 @@
 pak::pak("rainoffallingstar/systemdR")
 ```
 
-####  Example
+#### Example
 
 ``` r
 # for systemd service
